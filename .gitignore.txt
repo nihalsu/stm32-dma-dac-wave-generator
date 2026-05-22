@@ -1,0 +1,40 @@
+# STM32CubeIDE / Eclipse build outputs
+Debug/
+Release/
+bin/
+obj/
+
+# Keil MDK ARM build outputs
+Listings/
+Objects/
+*.d
+*.crf
+*.o
+*.lnp
+*.axf
+*.htm
+*.dep
+*.build_log.htm
+*.map
+
+# IAR Embedded Workbench build outputs
+Debug/
+Release/
+*.ewt
+*.dep
+*.ewd.browse
+
+# STM32CubeMX generated temporary files
+.mxproject
+
+# Operating System specific files
+.DS_Store
+Thumbs.db
+
+# User specific IDE settings (keeps project shareable but removes local paths)
+*.launch
+.settings/
+*.uvgui.*
+*.uv2.bak
+*.uvopt.bak
+*.uvoptx.bak
